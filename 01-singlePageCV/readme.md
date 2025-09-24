@@ -11,4 +11,4 @@
 [X]    A favicon linked in the head section.
 
 # Screenshot
-![screenshot](./screenshot.png)
+![screenshot](./screenshot.PNG)
